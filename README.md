@@ -1,6 +1,3 @@
-This is my first repository and my first command. 
+# About me
 
-I am making changes to this file. In vim.
-
-Adding 1 more line.
-
+This is my about me project. It's not *everything* about me, but it's a start.
